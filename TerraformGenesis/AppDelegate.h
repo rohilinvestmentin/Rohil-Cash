@@ -1,0 +1,15 @@
+//
+//  AppDelegate.h
+//
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+- (void)tg_sceneDidBecomeActive;
+
+@end
+
+NS_ASSUME_NONNULL_END

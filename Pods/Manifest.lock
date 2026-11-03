@@ -1,0 +1,40 @@
+PODS:
+  - Adjust (5.5.2):
+    - Adjust/Adjust (= 5.5.2)
+  - Adjust/Adjust (5.5.2):
+    - AdjustSignature (= 3.62.0)
+  - AdjustSignature (3.62.0)
+  - IQKeyboardManager (6.5.19)
+  - Masonry (1.1.0)
+  - SDWebImage (5.21.5):
+    - SDWebImage/Core (= 5.21.5)
+  - SDWebImage/Core (5.21.5)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Adjust
+  - IQKeyboardManager
+  - Masonry
+  - SDWebImage
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - Adjust
+    - AdjustSignature
+    - IQKeyboardManager
+    - Masonry
+    - SDWebImage
+    - YYModel
+
+SPEC CHECKSUMS:
+  Adjust: b413bea97bf8056adf741481c4deab34e2d9de64
+  AdjustSignature: 682d788005a6e21557913a9dc0381ae8d943ca0a
+  IQKeyboardManager: c8665b3396bd0b79402b4c573eac345a31c7d485
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: e9c98383c7572d713c1a0d7dd2783b10599b9838
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 38fd0dc099c7a5c6ac8e2be3abaac4d95fb263b9
+
+COCOAPODS: 1.16.2
